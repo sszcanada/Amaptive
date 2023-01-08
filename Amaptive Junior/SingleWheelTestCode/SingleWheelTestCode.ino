@@ -12,7 +12,7 @@ const int in2 = 4;
 
 void setup() {
   // set the speed of the stepper motor:
-  myStepper.setSpeed(60);
+  myStepper.setSpeed(6);
 
   // set the pins for the L298N module as outputs:
   pinMode(enA, OUTPUT);
