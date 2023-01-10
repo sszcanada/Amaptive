@@ -9,15 +9,22 @@ Amaptive Senior is a larger version of the robot, designed for more advanced res
 
 # Features
 Sleek, futuristic design with a clear body that allows the internal mechanisms to be visible
+<br />
 Equipped with a variety of sensors, including ultrasonic sensors, laser rangefinders, and RFID readers
+<br />
 Controlled by an Arduino microcontroller, with a separate controller unit featuring joysticks, graphics LCD screen, and keypad for manual input
+<br />
 Able to navigate its environment using evolutionary algorithms and machine learning techniques, mapping out the layout as it goes
 
 # Project Goals
 The goals of the Amaptive project are to:
 
 Advance the field of robotics and AI
+<br />
 Promote education and innovation in these areas
+<br />
 Provide an open-source platform for researchers and educators to build upon and customize for their own purposes
-License
-Amaptive is released under the MIT License. See LICENSE for details.
+<br />
+
+# License
+Amaptive is released under the MIT License.
