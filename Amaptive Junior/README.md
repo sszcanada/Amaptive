@@ -16,7 +16,7 @@ Amaptive Junior is a light-duty robot designed for educational and research purp
  <br />
  1  X  ULN2003 Module
  <br />
- 1  X  3V-6V DC Motor
+ 1  X  5V DC Motor
  <br />
  1  X  DRV8833 Or L298N Module (*Note the L298N can not be mouted inside the wheel module, you will need to mount it outside using provided housing*)
  <br />
