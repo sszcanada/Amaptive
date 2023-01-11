@@ -7,6 +7,8 @@ Amaptive Junior is a light-duty robot designed for educational and research purp
 
  1  X  Arduino Mega 2560 Rev3
  <br />
+ 1 X 60000mah Portable mini mobile power bank (22 x 76 x 79 mm)
+ <br />
 
 ## Wheel Modules (Minimum 4 required)
 
