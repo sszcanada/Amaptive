@@ -10,16 +10,16 @@ Amaptive Junior is a light-duty robot designed for educational and research purp
  1 X 60000mah Portable mini mobile power bank (22 x 76 x 79 mm)
  <br />
 
-## Wheel Modules (Minimum 4 required)
+## Wheel Modules (Minimum 4 Wheel Modules Are Required  *Parts are listed per module*)
 
- 4  X  28BYJ-48 Stepper Motors
+ 1  X  28BYJ-48 Stepper Motors
  <br />
- 4  X  ULN2003 Modules
+ 1  X  ULN2003 Modules
  <br />
- 4  X  3V-6V DC Motors
+ 1  X  3V-6V DC Motors
  <br />
- 4  X  DRV8833 Modules
+ 1  X  DRV8833 Modules
  <br />
- 4  X  5kg Load Cell with HX711 Module
+ 1  X  5kg Load Cell with HX711 Module
  <br />
  
