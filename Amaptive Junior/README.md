@@ -3,8 +3,13 @@ Amaptive Junior is a light-duty robot designed for educational and research purp
 
 # Amaptive Junior Parts List [INCOMPLETE]
 
+## Brain
+
  1  X  Arduino Mega 2560 Rev3
  <br />
+
+## Wheel Modules (Minimum 4 required)
+
  4  X  28BYJ-48 Stepper Motors
  <br />
  4  X  ULN2003 Modules
@@ -13,3 +18,6 @@ Amaptive Junior is a light-duty robot designed for educational and research purp
  <br />
  4  X  DRV8833 Modules
  <br />
+ 4  X  5kg Load Cell with HX711 Module
+ <br />
+ 
