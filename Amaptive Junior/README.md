@@ -12,13 +12,13 @@ Amaptive Junior is a light-duty robot designed for educational and research purp
 
 ## Wheel Modules (Minimum 4 Wheel Modules Are Required and *Parts are listed per module*)
 
- 1  X  28BYJ-48 Stepper Motors
+ 1  X  28BYJ-48 Stepper Motor
  <br />
- 1  X  ULN2003 Modules
+ 1  X  ULN2003 Module
  <br />
- 1  X  3V-6V DC Motors
+ 1  X  3V-6V DC Motor
  <br />
- 1  X  DRV8833 Modules   (Or L298N *Note the L298N can not be mouted inside the wheel module, you will need to mount it outside using provided housing*)
+ 1  X  DRV8833 Or L298N Module *Note the L298N can not be mouted inside the wheel module, you will need to mount it outside using provided housing*)
  <br />
  1  X  5kg Load Cell with HX711 Module
  <br />
