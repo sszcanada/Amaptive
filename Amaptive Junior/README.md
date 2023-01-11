@@ -1,5 +1,5 @@
 # Amaptive Junior Overview
-Amaptive Junior is a light-duty robot designed for educational and research purposes. It features 4 wheels, each powered by a combination of a 28BYJ-48 stepper motor and a 3V-6V DC motor, controlled by an Arduino Mega. The robot is equipped with sensors and is capable of autonomous movement and decision-making using machine learning algorithms.
+Amaptive Junior is a light-duty robot designed for educational and research purposes. It features 4 wheels, each powered by a combination of a 28BYJ-48 stepper motor and a 5V DC motor, controlled by an Arduino Mega. The robot is equipped with sensors and is capable of autonomous movement and decision-making using machine learning algorithms.
 
 # Amaptive Junior Parts List [INCOMPLETE]
 
