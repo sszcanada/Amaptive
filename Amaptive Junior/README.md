@@ -18,7 +18,7 @@ Amaptive Junior is a light-duty robot designed for educational and research purp
  <br />
  1  X  3V-6V DC Motors
  <br />
- 1  X  DRV8833 Modules   (Could Also Use L298N *Note this can not be mouted inside the wheel module, you will need to house it outside using provided housing*)
+ 1  X  DRV8833 Modules   (Or L298N *Note this can not be mouted inside the wheel module, you will need to house it outside using provided housing*)
  <br />
  1  X  5kg Load Cell with HX711 Module
  <br />
