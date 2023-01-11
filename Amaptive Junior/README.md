@@ -3,7 +3,10 @@ Amaptive Junior is a light-duty robot designed for educational and research purp
 
 # Amaptive Junior Parts List [INCOMPLETE]
 
-## Brain
+## Frame
+ 2020 Aluminum Extrusion (*Minimum Length of 25 CM --- 32 CM If Using L298N Module*)
+
+## Brain Module
 
  1  X  Arduino Mega 2560 Rev3
  <br />
