@@ -41,7 +41,7 @@ With its compact and versatile design, the Amaptive Junior is a valuable tool fo
  <br />
  1  X  DRV8833 Or L298N Module (*Note the L298N can not be mouted inside the wheel module, you will need to mount it outside using provided housing*)
  <br />
- 1  X  5kg Load Cell with HX711 Module
+ 1  X  20kg Load Cell with HX711 Module
  <br />
  
 # Resources
