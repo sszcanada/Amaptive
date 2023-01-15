@@ -31,7 +31,7 @@ The goals of the Amaptive project are to:
 - utilize advanced technologies such as AI and VR to control and navigate the robot
 - create a platform that can be used for various applications such as education, research, and industry
 - develop a community around the project through open-source collaboration and active engagement.
-- make the project accessible to others for further development and use
+- keep the project accessible to others for further development and use
 
 
 # License
