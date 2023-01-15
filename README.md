@@ -26,12 +26,13 @@ Amaptive Senior is a larger version of the robot, designed for more advanced res
 The goals of the Amaptive project are to:
 
 - create a modular, customizable, and adaptable robot platform
-- utilize advanced technologies such as AI and VR to control and navigate the robot
+- use affordable and readily available components
 - design 3D printable components that can be produced at home
+- utilize advanced technologies such as AI and VR to control and navigate the robot
 - create a platform that can be used for various applications such as education, research, and industry
 - develop a community around the project through open-source collaboration and active engagement.
 - make the project accessible to others for further development and use
-- use affordable and readily available components
+
 
 # License
 Amaptive is released under the MIT License.
