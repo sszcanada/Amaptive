@@ -27,7 +27,7 @@ The goals of the Amaptive project are to:
 
 - create a modular, customizable, and adaptable robot platform
 - use affordable and readily available components
-- design 3D printable components that can be produced at home
+- design 3D printable components that can be produced at home whenever possible
 - utilize advanced technologies such as AI and VR to control and navigate the robot
 - create a platform that can be used for various applications such as education, research, and industry
 - develop a community around the project through open-source collaboration and active engagement.
