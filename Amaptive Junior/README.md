@@ -1,16 +1,23 @@
 # Amaptive Junior Overview
-Amaptive Junior is a light-duty robot designed for educational and research purposes. It features 4 wheels, each powered by a combination of a 28BYJ-48 stepper motor and a 5V DC motor, controlled by an Arduino Mega. The robot is equipped with sensors and is capable of autonomous movement and decision-making using machine learning algorithms.
+The Amaptive Junior is a light-duty, versatile, and cost-effective robot designed for educational and research purposes.
+<br />
+Equipped with a variety of sensors including ultrasonic, IR, and a gyroscope, it is capable of autonomous movement and decision-making using machine learning algorithms.
+<br />
+It is equipped with a modular wheel system, each consisting of a combination of a 28BYJ-48 stepper motor and a 5V DC motor. This allows for a wide range of movements and flexibility in terms of speed and precision.
+<br />
+The robot also features a variety of sensors, including a load cell, LiDAR, and a HX711 amplifier, which enable it to make autonomous decisions and perform tasks using machine learning algorithms.
+<br />
+The Amaptive Junior is designed to be easily customizable and expandable, allowing for further experimentation and development.
+<br />
+With its compact and versatile design, the Amaptive Junior is a valuable tool for students, researchers, and hobbyists alike.
 
 # Features
-
-<ul>
- <li>Modular design allows for easy customization and expansion</li>
- <li>Uses cheap motors for cost efficiency</li>
- <li>Compatible with a variety of control systems, including Arduino and Unreal Engine</li>
- <li>Can be powered by battery or external power source</li>
- <li> Equipped with Qi wireless charging capabilities</li>
- <li> Equipped with solar charging capabilities</li>
-</ul>
+- Modular design allows for easy customization and expansion
+- Uses cheap motors for cost efficiency
+- Compatible with a variety of control systems, including Arduino and Unreal Engine
+- Can be powered by battery or external power source
+- Equipped with Qi wireless charging capabilities
+- Equipped with solar charging capabilities
 
 # Amaptive Junior Parts List [INCOMPLETE]
 
