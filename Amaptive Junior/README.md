@@ -21,7 +21,7 @@ Amaptive Junior is a light-duty robot designed for educational and research purp
 
  1  X  Arduino Mega 2560 Rev3
  <br />
- 1 X 30000mAh Mini Solar Power Bank Portable External Battery (88mm x 26 mm x78 mm)
+ 1 X 30000mAh Mini Solar Power Bank Portable External Battery (88 x 26 x 78 mm)
  <br />
 
 ## Wheel Modules (Minimum 4 Wheel Modules Are Required and *Parts are listed per module*)
