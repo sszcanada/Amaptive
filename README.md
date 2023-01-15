@@ -15,7 +15,7 @@ Amaptive Senior is a larger version of the robot, designed for more advanced res
 - Modular design, allowing for a wide range of configurations and capabilities.
 - Incorporation of advanced technology such as Intel NUC (Senior) and Unreal Engine for advanced AI and VR capabilities.
 - Use of powerful MindMaker AI plugin for control and map processing.
-- Wheel modules with DC, stepper, and steel axel motors, with modular motor housing and 3D printed TPU seals.
+- Wheel modules with DC & stepper motors, and steel axel, with modular motor housing and 3D printed TPU seals.
 - Use of TPU in wheel design for added durability and flexibility.
 - Incorporation of load cell for weight sensing and measurement capabilities.
 - 3D printed gears for increased precision and reliability.
