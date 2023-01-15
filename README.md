@@ -12,13 +12,26 @@ Amaptive Senior is a larger version of the robot, designed for more advanced res
 - Equipped with a variety of sensors, including ultrasonic sensors, laser rangefinders, and RFID readers
 - Controlled by an Arduino microcontroller, with a separate controller unit featuring joysticks, graphics LCD screen, and keypad for manual input
 - Able to navigate its environment using evolutionary algorithms and machine learning techniques, mapping out the layout as it goes
+- Modular design, allowing for a wide range of configurations and capabilities.
+- Incorporation of advanced technology such as Intel NUC (Senior) and Unreal Engine for advanced AI and VR capabilities.
+- Use of powerful MindMaker AI plugin for control and map processing.
+- Wheel modules with DC, stepper, and steel axel motors, with modular motor housing and 3D printed TPU seals.
+- Use of TPU in wheel design for added durability and flexibility.
+- Incorporation of load cell for weight sensing and measurement capabilities.
+- 3D printed gears for increased precision and reliability.
+- 2020 extrusion frame for added stability and strength.
+- Support for a wide range of additional sensors and components.
 
 # Project Goals
 The goals of the Amaptive project are to:
 
-- Advance the field of robotics and AI
-- Promote education and innovation in these areas
-- Provide an open-source platform for researchers and educators to build upon and customize for their own purposes
+- create a modular, customizable, and adaptable robot platform
+- utilize advanced technologies such as AI and VR to control and navigate the robot
+- design 3D printable components that can be produced at home
+- create a platform that can be used for various applications such as education, research, and industry
+- develop a community around the project through open-source collaboration and active engagement.
+- make the project accessible to others for further development and use
+- use affordable and readily available components
 
 # License
 Amaptive is released under the MIT License.
