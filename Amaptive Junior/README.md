@@ -40,6 +40,6 @@ Amaptive Junior is a light-duty robot designed for educational and research purp
 # Resources
 Coming Soon
 
-Support
+# Support
 For technical support and troubleshooting, please visit the SSZ Canada Discord at visit the SSZ Canada Discord at  [SSZ Discord](https://ssz.ca/chat)
 
