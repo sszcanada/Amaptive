@@ -4,11 +4,12 @@ Amaptive Junior is a light-duty robot designed for educational and research purp
 # Features
 
 <ul>
-  <li>Modular design allows for easy customization and expansion</li>
-  <li>Uses cheap motors for cost efficiency</li>
-  <li>Compatible with a variety of control systems, including Arduino and Unreal Engine</li>
-  <li>Can be powered by battery or external power source</li>
+ <li>Modular design allows for easy customization and expansion</li>
+ <li>Uses cheap motors for cost efficiency</li>
+ <li>Compatible with a variety of control systems, including Arduino and Unreal Engine</li>
+ <li>Can be powered by battery or external power source</li>
  <li> Equipped with Qi wireless charging capabilities</li>
+ <li> Equipped with solar charging capabilities</li>
 </ul>
 
 # Amaptive Junior Parts List [INCOMPLETE]
