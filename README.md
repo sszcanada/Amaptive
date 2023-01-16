@@ -2,12 +2,13 @@
 Amaptive is a collaborative project between SSZ Canada and ChatGPT, an advanced AI language model developed by OpenAI. The project consists of two versions: Amaptive Junior and Amaptive Senior.
 
 # Amaptive Junior
-Amaptive Junior is a light-duty robot designed for educational and research purposes. It features 4 wheels, each powered by a combination of a 28BYJ-48 stepper motor and a 3V-6V DC motor, controlled by an Arduino Mega. The robot is equipped with sensors and is capable of autonomous movement and decision-making using machine learning algorithms.
+Amaptive Junior is a light-duty robot designed for educational and research purposes. It features 4 wheels, each powered by a combination of a 28BYJ-48 stepper motor and a 3V-6V DC motor, controlled by an Arduino Mega. The robot is equipped with a variety of sensors and is capable of autonomous movement and decision-making using machine learning algorithms. The wheel modules feature dual stepper and DC motors, and steel axel with a modular motor housing and 3D printed TPU seals for added durability and flexibility. The wheels are also modular in nature, allowing for the addition of more wheels for increased stability and load capacity.
 
 # Amaptive Senior
 Amaptive Senior is a larger version of the robot, designed for more advanced research and industrial applications. It features 4 wheels, each powered by a Nema 17 stepper motor, controlled by an Arduino Mega Pro. The robot is equipped with more advanced sensors and has increased computational power, allowing for more complex machine learning tasks.
 
 # Features
+
 - Sleek, futuristic design with a clear body that allows the internal mechanisms to be visible
 - Equipped with a variety of sensors, including ultrasonic sensors, laser rangefinders, and RFID readers
 - Controlled by an Arduino microcontroller, with a separate controller unit featuring joysticks, graphics LCD screen, and keypad for manual input
@@ -15,15 +16,16 @@ Amaptive Senior is a larger version of the robot, designed for more advanced res
 - Modular design, allowing for a wide range of configurations and capabilities.
 - Incorporation of advanced technology such as Intel NUC (Senior) and Unreal Engine for advanced AI and VR capabilities.
 - Use of powerful MindMaker AI plugin for control and map processing.
-- Wheel modules with DC & stepper motors, and steel axel, with modular motor housing and 3D printed TPU seals.
+- Wheel modules with dual DC & stepper motors, and steel axel, with modular motor housing and 3D printed TPU seals.
 - Use of TPU in wheel design for added durability and flexibility.
 - Incorporation of load cell for weight sensing and measurement capabilities.
 - 3D printed gears for increased precision and reliability.
 - 2020 extrusion frame for added stability and strength.
 - Support for a wide range of additional sensors and components.
+- Modular wheel design, allowing for the addition of more wheels for increased stability and load capacity.
 
 # Project Goals
-The goals of the Amaptive project are to:
+## The goals of the Amaptive project are to:
 
 - create a modular, customizable, and adaptable robot platform
 - use affordable and readily available components
@@ -32,7 +34,6 @@ The goals of the Amaptive project are to:
 - create a platform that can be used for various applications such as education, research, and industry
 - develop a community around the project through open-source collaboration and active engagement.
 - keep the project accessible to others for further development and use
-
 
 # License
 Amaptive is released under the MIT License.
