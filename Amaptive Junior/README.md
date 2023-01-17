@@ -48,5 +48,5 @@ With its compact and versatile design, the Amaptive Junior is a valuable tool fo
 Coming Soon
 
 # Support
-For technical support and troubleshooting, please visit the [SSZ Canada Discord Server](https://ssz.ca/chat)
+For technical support, troubleshooting, and project updates please visit the [SSZ Canada Discord Server](https://ssz.ca/chat)
 
