@@ -1,5 +1,5 @@
 # Amaptive
-The Amaptive project is a collaborative open-source project developed by SSZ Canada. Its goal is to create a modular, customizable, and adaptable robot platform that utilizes advanced technologies such as AI and VR to control and navigate the robot. The platform is designed for use in education, research, and industry.
+The Amaptive project is a collaborative open-source project developed by SSZ Canada and utilizing the advanced language model capabilities of ChatGPT developed by OpenAI. Its goal is to create a modular, customizable, and adaptable robot platform that utilizes advanced technologies such as AI and VR to control and navigate the robot. The platform is designed for use in education, research, and industry.
 
 Built with affordable and readily available components, the Amaptive platform utilizes 3D printable components that can be produced at home. The current focus of the project is on the wheel modules, which are designed to be modular and feature a custom design printed in Blue PLA. The motor housing measures 33.49 x 116.3 x 52.5 mm and holds a combination of a 28BYJ-48 stepper motor and a 3V-6V DC motor, controlled by an Arduino Nano. The wheel modules also include a 1:1 ratio gear system with 3 gears, 1 attached to the metal shaft, 1 attached to the stepper, and 1 attached to the DC motors.
 
