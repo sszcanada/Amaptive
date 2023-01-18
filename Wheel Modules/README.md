@@ -1,4 +1,5 @@
-# Nothing below version 1 is recommed for use, they are here for postatiry only
+# Nothing below version 1 is recommed for use
+*They are here for postatiry only*
 
 ## 5 Volt Wheel Modules
 
