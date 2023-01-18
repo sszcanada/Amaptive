@@ -5,7 +5,7 @@ The v0.1 engine module design currently uses a combination of a 28BYJ-48 stepper
 # Planned features of v0.2
 
 - Switching from 608zz bearings to 604zz bearings and reducing the axel diameter from 8mm to 4mm on the Junior wheel modules to further reduce the overall footprint of the wheel modules.
-- Moving the control modules to the center of the wheel module, along with an Arduino Nano, to reduce the overall footprint and increase scalability.
+- Moving the control modules to the center of the axel module, along with an Arduino Nano, to reduce the overall footprint and increase scalability.
 - Adding a quick-release mechanism for the axel, to allow for easy and quick replacement of the wheels.
 - Adding a secondary power source for the wheel modules to be powered independently from the brain module with solar charging capability and Qi charging.
 - Please let me know if there's anything else you would like me to include or if there is any mistake in the above summary.
