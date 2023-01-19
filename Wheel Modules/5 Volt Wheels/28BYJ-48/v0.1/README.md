@@ -8,7 +8,6 @@ The v0.1 engine module design currently uses a combination of a 28BYJ-48 stepper
 - Moving the control modules to the center of the axel module, along with an Arduino Nano, to reduce the overall footprint and increase scalability.
 - Adding a quick-release mechanism for the axel, to allow for easy and quick replacement of the wheels.
 - Adding a secondary power source for the wheel modules to be powered independently from the brain module with solar charging capability and Qi charging.
-- Please let me know if there's anything else you would like me to include or if there is any mistake in the above summary.
 - Utilizing JST Connectors for communication between the brain module and the wheel modules
 - Moving control modules to center along with Arduino Nano to further reduce overall footprint of the wheel modules.
 - Incorporating a new ratio gear system
@@ -16,6 +15,9 @@ The v0.1 engine module design currently uses a combination of a 28BYJ-48 stepper
 # Planned for later versions
 
 - Making the wheel modules self-propelling so they can move to a fresh base if needed.
+
+# Link
+https://www.tinkercad.com/things/8DroPLgaaVU
 
 
 
