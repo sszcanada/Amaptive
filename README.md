@@ -45,6 +45,8 @@ ROCKSOLAR was established in response to the growing need for off-grid power sou
 
 # Partner Links 
 ### Save money and help fund the project
+
+#### Rocksolar
 In Canada, please visit:
 https://rocksolar.ca/
 Use the code: SSZ
