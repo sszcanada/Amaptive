@@ -50,7 +50,6 @@ ROCKSOLAR was established in response to the growing need for off-grid power sou
 In Canada, please visit:
 https://rocksolar.ca/
 Use the code: SSZ
-
 In USA, please visit:
 https://www.rocksolars.com/
 Use the code: SSZUS
