@@ -37,3 +37,17 @@ The project is currently open-source and released under the MIT License. The tea
 
 # License
 Amaptive is released under the MIT License.
+
+# Project Sponsors
+
+## Rocksolar
+ROCKSOLAR was established in response to the growing need for off-grid power sources and the expanding market for outdoor activities, camping, and emergency/disaster situations. Since being founded in 2017 in the USA by a group of engineers, the company has experienced great success in launching multiple product lines with a focus on off-grid solar power solutions. 
+
+# Partner Links save money and help fund the project at no additional cost to you
+In Canada, please visit:
+https://rocksolar.ca/
+Use the code: SSZ
+
+In USA, please visit:
+https://www.rocksolars.com/
+Use the code: SSZUS
