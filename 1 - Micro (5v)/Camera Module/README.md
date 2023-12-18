@@ -15,6 +15,7 @@ These modules offer different capabilities and can be selected based on your req
 The camera module provides two code options for flexibility:
 
 Connect to the Network Option: This enables the camera to connect to a network for remote access and control.
+
 Self-Broadcasting: Allows the camera to function independently without requiring external network connectivity.
 
 
@@ -24,7 +25,9 @@ Self-Broadcasting: Allows the camera to function independently without requiring
 The camera module is equipped with a 2-axis gimbal, providing a wide range of movement:
 
 Horizontal Axis: 360 degrees
+
 Vertical Axis: 180 degrees
+
 This allows for precise control and a full range of sight, enhancing the camera's versatility in various applications.
 
 ### Controller and VR App
