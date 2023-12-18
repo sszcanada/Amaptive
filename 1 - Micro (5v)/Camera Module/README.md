@@ -31,5 +31,7 @@ This allows for precise control and a full range of sight, enhancing the camera'
 The camera module is seamlessly integrated into the Amaptive platform, allowing it to be linked to a controller and a VR app. Users can enjoy the following features:
 
 Controller Integration: Connect the camera module to a physical controller for manual operation.
+
 VR App Integration: Utilize a VR app to remotely control and view the camera feed.
+
 Within the VR app, options are available to synchronize camera movement with the rotation of the VR headset, providing an immersive and interactive experience.
