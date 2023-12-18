@@ -6,14 +6,15 @@ The Amaptive Camera Module is a versatile system designed to work with two diffe
 The Amaptive Camera Module is compatible with two camera modules:
 
 ESP32-CAM
+
 Seeed Studio XIAO ESP32S3 Sense
 
-These modules offer different capabilities and can be selected based your requirements.
+These modules offer different capabilities and can be selected based on your requirements.
 
 ### Code Options
 The camera module provides two code options for flexibility:
 
-Connect to the Network Option: Enables the camera to connect to a network for remote access and control.
+Connect to the Network Option: This enables the camera to connect to a network for remote access and control.
 Self-Broadcasting: Allows the camera to function independently without requiring external network connectivity.
 
 
